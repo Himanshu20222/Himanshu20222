@@ -1,4 +1,4 @@
-[![MasterHead](![github-header-image](https://github.com/Himanshu20222/Himanshu20222/assets/108393584/924a7594-cd52-413b-a53f-6e93de801198)
+![github-header-image](https://github.com/Himanshu20222/Himanshu20222/assets/108393584/924a7594-cd52-413b-a53f-6e93de801198)
 
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
 <h3 align="center">Aspiring Electronics and Communications Engineer | Tech Enthusiast .</h3>
